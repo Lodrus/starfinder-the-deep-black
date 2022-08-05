@@ -1,0 +1,28 @@
+version: 1
+imports: []
+schemas:
+  - id: mission
+    parent: root
+    children:
+      - pattern: "[0-0][0-9]"
+        template:
+          id: template.mission
+          type: note
+      - pattern: "[0-9]"
+        template:
+          id: template.mission
+          type: note
+  - id: npc
+    parent: root
+    children: []
+  - id: session
+    parent: root
+    children:
+      - pattern: "[0-2][0-9][0-9][0-9]"
+        children:
+          - pattern: "[0-1][0-9]"
+            children:
+              - pattern: "[0-3][0-9]"
+                template:
+                  id: template.session
+                  type: journal
