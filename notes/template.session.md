@@ -1,14 +1,12 @@
 ---
-id: vsdlk96py5rnv53p1pxs8g7
-title: session
+id: 1x7cb3ni8ximgxzoicqxlsf
+title: Session
 desc: ''
-updated: 1659654522151
-created: 1659407860642
+updated: 1659838184627
+created: 1659796788909
 ---
 
 # Current Situation
 * Where are we?
 * What major events happened last session?
 * What needs to be dealt with now?
-
-{{ CURRENT_YEAR }}-{{ CURRENT_MONTH }}-{{ CURRENT_DAY }}
