@@ -2,7 +2,7 @@
 id: iielmh70nrguf0loh9f90o9
 title: '1: What a Nice Little Planet'
 desc: ''
-updated: 1659582736812
+updated: 1659843203962
 created: 1659580574147
 ---
 
@@ -14,11 +14,10 @@ created: 1659580574147
 
 ## Summary
 
-Most of the lost equipment was Administrator Robinson's
 We discover two things during this
 1. the local fauna and flora are very scary. Also generally allergic to silver. Commence the harvesting and processing of silver-filled, blue grass
 2. Sabotage! One of the drop ship's 4 engines was poorly maintained and didn't fire... We're suspicious. Also, one of the comm beacons is hacked but we can't quite figure out the details. Basically, there's an extra piece of hardware inside that sits between the computer and transceiver. So that thing appears capable of modifying data sent through this beacon. We add in our own hardware that basically runs a diff on the data in vs out of that unknown device. When a diff is actually found, we get emailed the deets
 
-We return to base, ditch all technology, and fill in Ri-Ez on everything... She's doesn't like it
+We return to base, ditch all technology, and fill in Ri-Es on everything... She's doesn't like it
 
 ## Notes

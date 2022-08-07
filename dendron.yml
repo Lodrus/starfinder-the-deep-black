@@ -2,6 +2,7 @@ version: 5
 dev:
     enablePreviewV2: true
     enableSelfContainedVaults: true
+    enableLinkCandidates: true
 commands:
     lookup:
         note:
@@ -93,6 +94,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
+    siteUrl: https://lodrus.github.io/starfinder-the-deep-black/
     seo:
         title: Dendron
         description: Personal Knowledge Space
