@@ -2,7 +2,7 @@
 id: dsfvg0h3rez74bzjz1vmifw
 title: '4: Sup Bitches'
 desc: ''
-updated: 1659841756879
+updated: 1660146502353
 created: 1659583157757
 ---
 
@@ -54,7 +54,7 @@ Then head to main base over the next couple of days.
 At main base, we discover that while things are calm, it's not right here.
 Comms are down. 
 Vita is offline. 
-Administrator Ri-Ez was arrested for the murder of Administrator Someone
+[[npc.ri-es]] was arrested for the murder of [[npc.robinson]]
 Giant monster is about 2 days away.
 
 ## Notes
