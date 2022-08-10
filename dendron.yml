@@ -83,7 +83,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: true
 publishing:
-    assetsPrefix: starfinder-the-deep-black
+    assetsPrefix: /starfinder-the-deep-black
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true

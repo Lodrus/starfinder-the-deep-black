@@ -101,6 +101,7 @@
     "automaticallyShowPreview": true
   },
   "publishing": {
+    "assetsPrefix": "/starfinder-the-deep-black",
     "enableFMTitle": true,
     "enableNoteTitleForLink": true,
     "enableMermaid": true,
