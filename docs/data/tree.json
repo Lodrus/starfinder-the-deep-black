@@ -1,0 +1,265 @@
+{
+  "roots": [
+    {
+      "key": "1hg4ddaxuksk7moer4url4n",
+      "title": "starfinder-the-deep-black",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "starfinder-the-deep-black",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "cwd37czrvr9uh5i5rtiz85o",
+          "title": "Location",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "starfinder-the-deep-black",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "9lkyl77qx2wfs4dmuwip2b4",
+              "title": "Forward Operating Base",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "dh3q8zzzvahp7v36tj8mdc7",
+              "title": "Main Base",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "z7zbjcmjwdrwk9zh3be6rkl",
+          "title": "Mission",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "starfinder-the-deep-black",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "iielmh70nrguf0loh9f90o9",
+              "title": "1: What a Nice Little Planet",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "d3in3wqtaig1yog531ofjym",
+              "title": "2: Xenobiology!",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "dpdrpgcrs63m55obvih9lzw",
+              "title": "3: Moving Day",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "dsfvg0h3rez74bzjz1vmifw",
+              "title": "4: Sup Bitches",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "ui3100g15lg8mslx8jatd2z",
+          "title": "Npc",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "starfinder-the-deep-black",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "svr5zldsc8orgtu7kq59dhm",
+              "title": "Administrator Ri-Es",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "3hg6cni2sx3c920td0kzxf3",
+              "title": "Administrator Robinson",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "0q088gzuqhwbltr2yn98x0u",
+              "title": "Administrator Yellen",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1i5tez24goa0w49rregw8h0",
+              "title": "Dr Tyrone Tenon",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "9a04t1u7zmwoz4firvg5t6p",
+              "title": "Hank",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "61lznm01d22dojw72i3ei7o",
+              "title": "Vira",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "nqtzxqhl4thg7n0jk9iu8vm",
+          "title": "Session",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "starfinder-the-deep-black",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "dqbe1mlv3vteixe0klup8c5",
+              "title": "2022",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "wfp8fskb0mz4xmlvtfpx8li",
+                  "title": "8",
+                  "icon": "bookOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "starfinder-the-deep-black",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "nntny8kz573mkwcmm58fhop",
+                      "title": "02",
+                      "icon": "bookOutlined",
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "starfinder-the-deep-black",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "lz5ajsz4412bps3dh7q7mbk",
+                      "title": "9",
+                      "icon": "bookOutlined",
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "starfinder-the-deep-black",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "iixm372kfaciz7n18t9r377",
+          "title": "Template",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "starfinder-the-deep-black",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "8m0xfmrlolhhmzfr8nq7abi",
+              "title": "Mission",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "5gjvms26y8z7lyl3closazl",
+              "title": "Npc",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1x7cb3ni8ximgxzoicqxlsf",
+              "title": "Session",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "starfinder-the-deep-black",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "1hg4ddaxuksk7moer4url4n": null,
+    "iixm372kfaciz7n18t9r377": "1hg4ddaxuksk7moer4url4n",
+    "1x7cb3ni8ximgxzoicqxlsf": "iixm372kfaciz7n18t9r377",
+    "5gjvms26y8z7lyl3closazl": "iixm372kfaciz7n18t9r377",
+    "8m0xfmrlolhhmzfr8nq7abi": "iixm372kfaciz7n18t9r377",
+    "nqtzxqhl4thg7n0jk9iu8vm": "1hg4ddaxuksk7moer4url4n",
+    "dqbe1mlv3vteixe0klup8c5": "nqtzxqhl4thg7n0jk9iu8vm",
+    "wfp8fskb0mz4xmlvtfpx8li": "dqbe1mlv3vteixe0klup8c5",
+    "lz5ajsz4412bps3dh7q7mbk": "wfp8fskb0mz4xmlvtfpx8li",
+    "nntny8kz573mkwcmm58fhop": "wfp8fskb0mz4xmlvtfpx8li",
+    "ui3100g15lg8mslx8jatd2z": "1hg4ddaxuksk7moer4url4n",
+    "0q088gzuqhwbltr2yn98x0u": "ui3100g15lg8mslx8jatd2z",
+    "61lznm01d22dojw72i3ei7o": "ui3100g15lg8mslx8jatd2z",
+    "3hg6cni2sx3c920td0kzxf3": "ui3100g15lg8mslx8jatd2z",
+    "svr5zldsc8orgtu7kq59dhm": "ui3100g15lg8mslx8jatd2z",
+    "9a04t1u7zmwoz4firvg5t6p": "ui3100g15lg8mslx8jatd2z",
+    "1i5tez24goa0w49rregw8h0": "ui3100g15lg8mslx8jatd2z",
+    "z7zbjcmjwdrwk9zh3be6rkl": "1hg4ddaxuksk7moer4url4n",
+    "dsfvg0h3rez74bzjz1vmifw": "z7zbjcmjwdrwk9zh3be6rkl",
+    "dpdrpgcrs63m55obvih9lzw": "z7zbjcmjwdrwk9zh3be6rkl",
+    "d3in3wqtaig1yog531ofjym": "z7zbjcmjwdrwk9zh3be6rkl",
+    "iielmh70nrguf0loh9f90o9": "z7zbjcmjwdrwk9zh3be6rkl",
+    "cwd37czrvr9uh5i5rtiz85o": "1hg4ddaxuksk7moer4url4n",
+    "9lkyl77qx2wfs4dmuwip2b4": "cwd37czrvr9uh5i5rtiz85o",
+    "dh3q8zzzvahp7v36tj8mdc7": "cwd37czrvr9uh5i5rtiz85o"
+  }
+}
