@@ -1,0 +1,9 @@
+version: 1
+imports: []
+schemas:
+  - id: npc
+    title: npc
+    parent: root
+    children:
+      - pattern: '*'
+        template: template.npc

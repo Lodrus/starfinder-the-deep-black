@@ -1,0 +1,8 @@
+version: 1
+imports: []
+schemas:
+  - id: mission
+    parent: root
+    children:
+      - pattern: "+([0-9])"
+        template: template.mission

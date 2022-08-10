@@ -2,24 +2,6 @@ version: 1
 imports: []
 schemas:
   - id: root
+    children: []
+    title: root
     parent: root
-    children:
-      - mission
-      - npc
-      - session
-  - id: mission
-    children:
-      - pattern: "+([0-9])"
-        template: template.mission
-  - id: npc
-    children:
-      - pattern: "*"
-        template: template.npc
-  - id: session
-    children:
-      - pattern: "[0-2][0-9][0-9][0-9]"
-        children:
-          - pattern: "[0-1][0-9]"
-            children:
-              - pattern: "[0-3][0-9]"
-                template: template.session
