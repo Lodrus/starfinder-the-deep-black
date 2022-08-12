@@ -1,0 +1,6 @@
+{
+  "pasteImage.path": "${currentFileDir}/images",
+  "pasteImage.prefix": "/",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

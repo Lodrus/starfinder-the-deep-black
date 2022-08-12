@@ -1,0 +1,10 @@
+collections:
+# include:
+  - Missions.md
+  - NPCs.md
+  - Sessions.md
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
