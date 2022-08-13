@@ -16,5 +16,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-# remote_theme: cotes2020/jekyll-theme-chirpy
-# theme: midnight
+theme: jekyll-theme-chirpy
