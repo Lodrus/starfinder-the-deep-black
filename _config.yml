@@ -1,12 +1,20 @@
 collections:
-  # include:
-  - Missions.md
-  - NPCs.md
-  - Sessions.md
+  locations:
+    output: true
+    permalink: /:collection/:name
+  missions:
+    output: true
+    permalink: /:collection/:name
+  npcs:
+    output: true
+    permalink: /:collection/:name
+  sessions:
+    output: true
+    permalink: /:collection/:name
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
 # remote_theme: cotes2020/jekyll-theme-chirpy
-theme: midnight
+# theme: midnight
