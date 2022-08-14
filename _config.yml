@@ -1,3 +1,6 @@
+url: https://lodrus.github.io/
+baseurl: /starfinder-the-deep-black
+
 collections:
   locations:
     output: true
@@ -11,9 +14,18 @@ collections:
   sessions:
     output: true
     permalink: /:collection/:name
+
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
+
 theme: jekyll-theme-chirpy
+theme_mode: dark
+
+title: Starfinder
+tagline: The Deep Black
+
+toc: true

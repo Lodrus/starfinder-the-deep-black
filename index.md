@@ -1,5 +1,5 @@
 ---
-title: Starfinder: The Deep Black
+layout: home
 ---
 
 ## Prologue
@@ -7,7 +7,7 @@ title: Starfinder: The Deep Black
 We're exploring a new planet at the edge of current civilization. The expedition is sponsored by some company but we're independents that work on a contract basis.
 
 Story starts with us on a jump ship and everyone rushing to get onto drop ships
-Seemingly because the jump ship crew are jerks that don't care what happens to the passengers and equipment 
+Seemingly because the jump ship crew are jerks that don't care what happens to the passengers and equipment
 In the rush, there's some minor accidents and such that cause more trouble
 we cleared it up, which gave us some clout and got us an introduction to [[npc.ri-es]]
 
