@@ -1,9 +1,6 @@
 ---
-id: 1i5tez24goa0w49rregw8h0
 title: Dr Tyrone Tenon
 desc: ""
-updated: 1659844000202
-created: 1659843455966
 ---
 
 Name

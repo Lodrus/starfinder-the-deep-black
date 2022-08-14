@@ -1,9 +1,6 @@
 ---
-id: iielmh70nrguf0loh9f90o9
 title: "1: What a Nice Little Planet"
 desc: ""
-updated: 1660146493843
-created: 1659580574147
 ---
 
 ## Objectives

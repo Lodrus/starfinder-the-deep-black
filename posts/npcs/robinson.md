@@ -1,9 +1,6 @@
 ---
-id: 3hg6cni2sx3c920td0kzxf3
 title: Administrator Robinson
 desc: ""
-updated: 1659843870966
-created: 1659842388829
 ---
 
 Name

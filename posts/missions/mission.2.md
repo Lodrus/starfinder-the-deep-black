@@ -1,9 +1,6 @@
 ---
-id: d3in3wqtaig1yog531ofjym
 title: "2: Xenobiology!"
 desc: ""
-updated: 1659843592526
-created: 1659582264173
 ---
 
 ## Objectives

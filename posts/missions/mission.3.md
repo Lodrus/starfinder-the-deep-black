@@ -1,9 +1,6 @@
 ---
-id: dpdrpgcrs63m55obvih9lzw
 title: "3: Moving Day"
 desc: ""
-updated: 1659583101627
-created: 1659582691340
 ---
 
 ## Objectives

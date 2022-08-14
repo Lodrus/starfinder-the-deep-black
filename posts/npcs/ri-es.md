@@ -1,9 +1,6 @@
 ---
-id: svr5zldsc8orgtu7kq59dhm
 title: Administrator Ri-Es
 desc: ""
-updated: 1659843789758
-created: 1659837982043
 ---
 
 Name

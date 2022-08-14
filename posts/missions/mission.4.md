@@ -1,9 +1,6 @@
 ---
-id: dsfvg0h3rez74bzjz1vmifw
 title: "4: Sup Bitches"
 desc: ""
-updated: 1660146502353
-created: 1659583157757
 ---
 
 ## Objectives
