@@ -1,5 +1,5 @@
 ---
 title: NPCs
 icon: person-from-portal
-order: 3
+order: 2
 ---
