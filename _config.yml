@@ -3,16 +3,16 @@ minimal_mistakes_skin: "dark"
 
 # Site Settings
 locale: "en-US"
-title: "Starfinder"
+title: "The Deep Black"
 title_separator: "-"
-subtitle: The Deep Black
+subtitle: Starfinder
 name: ""
 description: "Campaign Wiki"
 url: https://lodrus.github.io/
 baseurl: /starfinder-the-deep-black
 repository: lodrus/starfinder-the-deep-black
-teaser: /images/blue-grass-tree.jpg
-logo: /images/blue-grass-tree.jpg
+teaser: /assets/images/blue-grass-tree.jpg
+logo: /assets/images/blue-grass-tree.jpg
 breadcrumbs: true
 
 # Site Footer
