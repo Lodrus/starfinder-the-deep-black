@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.0'
 gem 'jekyll-relative-links'
-gem 'jekyll-theme-chirpy'
+gem "minimal-mistakes-jekyll"
