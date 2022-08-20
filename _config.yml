@@ -28,6 +28,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
+  - _pages
   - _locations
   - _missions
   - _npcs
@@ -93,7 +94,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
   - jekyll-relative-links
 
@@ -102,7 +102,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
   - jekyll-relative-links
 
@@ -162,26 +161,22 @@ collections:
 # Defaults
 defaults:
   - scope:
-      path: ""
-      type: locations
+      path: /locations/
     values:
       layout: single
       author_profile: true
   - scope:
-      path: ""
-      type: missions
+      path: /missions/
     values:
       layout: single
       author_profile: true
   - scope:
-      path: ""
-      type: npcs
+      path: /npcs/
     values:
       layout: single
       author_profile: true
   - scope:
-      path: ""
-      type: sessions
+      path: /sessions/
     values:
       layout: single
       author_profile: true
