@@ -11,7 +11,7 @@ description: "Campaign Wiki"
 url: https://lodrus.github.io/
 baseurl: /starfinder-the-deep-black
 repository: lodrus/starfinder-the-deep-black
-teaser: /assets/images/blue-grass-tree.jpg
+# teaser: /assets/images/blue-grass-tree.jpg
 logo: /assets/images/blue-grass-tree.jpg
 breadcrumbs: true
 
@@ -169,7 +169,7 @@ defaults:
       path: /missions/
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   - scope:
       path: /npcs/
     values:
@@ -179,4 +179,4 @@ defaults:
       path: /sessions/
     values:
       layout: single
-      author_profile: true
+      author_profile: false
