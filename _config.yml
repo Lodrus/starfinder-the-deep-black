@@ -171,7 +171,8 @@ defaults:
       layout: single
       author_profile: false
   - scope:
-      path: /_npcs/
+      path: ""
+      type: npcs
     values:
       layout: single
       toc: true
