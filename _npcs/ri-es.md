@@ -1,6 +1,6 @@
 ---
 title: Administrator Ri-Es
-desc: ""
+excerpt: "One of the 4 Administrators leading the expedition"
 ---
 
 Name
@@ -11,7 +11,7 @@ Race
 
 ---
 
-Ri-Es is one of the 4 Administrators in charge of this expedition. Her left arm is a robotic replacement.
+Ri-Es is o. Her left arm is a robotic replacement.
 
 ## Connection
 

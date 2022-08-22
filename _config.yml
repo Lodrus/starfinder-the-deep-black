@@ -171,10 +171,13 @@ defaults:
       layout: single
       author_profile: false
   - scope:
-      path: /npcs/
+      path: /_npcs/
     values:
       layout: single
-      author_profile: true
+      toc: true
+      toc_sticky: true
+      sidebar:
+        - title: :title
   - scope:
       path: /sessions/
     values:
