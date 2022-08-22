@@ -161,15 +161,15 @@ collections:
 # Defaults
 defaults:
   - scope:
-      path: /locations/
+      path: ""
+      type: locations
     values:
       layout: single
-      author_profile: true
   - scope:
-      path: /missions/
+      path: ""
+      type: missions
     values:
       layout: single
-      author_profile: false
   - scope:
       path: ""
       type: npcs
@@ -180,7 +180,7 @@ defaults:
       sidebar:
         - title: :title
   - scope:
-      path: /sessions/
+      path: ""
+      type: sessions
     values:
       layout: single
-      author_profile: false
