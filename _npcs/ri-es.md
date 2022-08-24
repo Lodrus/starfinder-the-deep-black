@@ -1,11 +1,10 @@
 ---
 title: Administrator Ri-Es
 sidebar:
-  - title: "Administrator"
+  - title: Ysoki
     image: https://preview.redd.it/8gf0bxypzud41.jpg?auto=webp&s=6e9419d14de91ed1df9e93abc16311ee534dc321
     text: "One of the 4 Administrators leading the expedition"
-  - title: Ysoki
-    text: "Her left arm is a robotic replacement."
+  - text: "Her left arm is a robotic replacement."
 ---
 
 ## Connection
