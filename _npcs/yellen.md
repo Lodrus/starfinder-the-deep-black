@@ -2,7 +2,7 @@
 title: Administrator Yellen
 sidebar:
   - title: Lashunta
-    image: "https://www.tumgir.com/tag/Damaya%20lashunta"
+    image: "https://64.media.tumblr.com/f1b640d60792015289f32ef98026a83e/tumblr_ow33cmv2gV1qgnv8ro1_540.pnj"
     text: "The new Head Administrator"
 ---
 
