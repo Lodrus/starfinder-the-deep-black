@@ -1,17 +1,12 @@
 ---
 title: Administrator Ri-Es
-excerpt: "One of the 4 Administrators leading the expedition"
+sidebar:
+  - title: "Administrator"
+    image: https://preview.redd.it/8gf0bxypzud41.jpg?auto=webp&s=6e9419d14de91ed1df9e93abc16311ee534dc321
+    text: "One of the 4 Administrators leading the expedition"
+  - title: Ysoki
+    text: "Her left arm is a robotic replacement."
 ---
-
-Name
-: Ri-Es
-
-Race
-: Ysoki
-
----
-
-Ri-Es is o. Her left arm is a robotic replacement.
 
 ## Connection
 
