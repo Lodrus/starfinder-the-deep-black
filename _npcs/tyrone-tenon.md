@@ -1,17 +1,10 @@
 ---
 title: Dr Tyrone Tenon
-desc: ""
+sidebar:
+  - title: Skittermander
+    image: "https://m.media-amazon.com/images/I/615nDxYTkwL._AC_SL1112_.jpg"
+    text: "Head of Xenobilogy"
 ---
-
-Name
-: Tyrone Tenon
-
-Race
-: Skittermander
-
----
-
-Head of the Xenobiology Department. As a skittermander, he is energetic and helpful to a fault.
 
 ## Connection
 

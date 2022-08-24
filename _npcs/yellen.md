@@ -1,17 +1,10 @@
 ---
 title: Administrator Yellen
-desc: ""
+sidebar:
+  - title: Lashunta
+    image: "https://www.tumgir.com/tag/Damaya%20lashunta"
+    text: "The new Head Administrator"
 ---
-
-Name
-: Yellen
-
-Race
-: Lashunta
-
----
-
-Yellen is one of the 4 Administrators in charge of this expedition.
 
 ## Connection
 

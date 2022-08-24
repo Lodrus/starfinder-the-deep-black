@@ -1,17 +1,11 @@
 ---
 title: Administrator Robinson
-desc: ""
+sidebar:
+  - title: Human
+    image: "https://i.pinimg.com/474x/af/fa/da/affada975c63b6f55280755656b83103.jpg"
+    text: "The Head Administrator"
+  - title: Deceased
 ---
-
-Name
-: Robinson
-
-Race
-: Human?
-
----
-
-One of the 4 Administrators in charge of this expedition.
 
 ### Connection
 

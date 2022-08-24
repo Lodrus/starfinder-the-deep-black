@@ -1,13 +1,11 @@
 ---
 Name: Hank
+sidebar:
+  - title: Human
+    image: https://i.pinimg.com/originals/0f/42/98/0f429834ee5594967e475892c4242ec6.jpg
+    text: "The expedition's head pilot."
+  - text: "Also a gun pilot."
 ---
-
-Name: Hank
-Race: Human?
-
----
-
-Hank is the expedition's head pilot. He's really good at piloting guns!
 
 ## Connection
 
