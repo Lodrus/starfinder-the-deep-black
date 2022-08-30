@@ -12,7 +12,7 @@ In the rush, there's some minor accidents and such that cause more trouble
 we cleared it up, which gave us some clout and got us an introduction to [Administrator Ri-Es]({% link _npcs/ri-es.md%})
 
 Most everyone gets to the planet safely... there are exceptions, including one of the two dropships capable of landing and returning to orbit.
-Most of the lost equipment was [Administrator Robinson's]({% link _npcs/robinson %})
+Most of the lost equipment was [Administrator Robinson's]({% link _npcs/robinson.md %})
 So there's ~150 people and gear that just landed
 Base camp is in a large area covered in blue grass
 There's an AI assistant named Vira
