@@ -170,7 +170,8 @@ defaults:
     values:
       layout: single
   - scope:
-      path: "npcs/*"
+      path: ""
+      type: npcs
     values:
       layout: single
       toc: true
