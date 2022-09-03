@@ -94,7 +94,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
-  - jekyll-relative-links
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -102,11 +101,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: true
 
 # Archives
 #  Type
