@@ -152,7 +152,7 @@ collections:
     permalink: /:collection/:name
   npcs:
     output: true
-    permalink: /npcs/:name
+    permalink: /:collection/:name
   sessions:
     output: true
     permalink: /:collection/:name
