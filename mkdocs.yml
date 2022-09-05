@@ -1,7 +1,7 @@
 site_name: Starfinder - The Deep Black
 site_url: https://lodrus.github.io/starfinder-the-deep-black/
 repo_url: https://github.com/Lodrus/starfinder-the-deep-black
-edit_uri: edit/main
+edit_uri: edit/main/docs
 
 docs_dir: docs
 site_dir: ../site
