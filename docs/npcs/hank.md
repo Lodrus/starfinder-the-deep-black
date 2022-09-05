@@ -19,4 +19,4 @@ Hank drives and flies us around. We keep an eye out for eachother.
 
 ## Major Events
 
-Hank was shot in [[session.2022.08.09]]! We saved [[npc.yellen]]'s life in that same encounter who was then available to go save Hank's life.
+[Hank was shot](../sessions/2022-08-09.md)! We saved [Yellen's](../npcs/yellen.md) life in that same encounter who was then available to go save Hank's life.

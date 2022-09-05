@@ -1,9 +1,0 @@
-main:
-  - title: Locations
-    url: /locations/
-  - title: Missions
-    url: /missions/
-  - title: NPCs
-    url: /npcs/
-  - title: Sessions
-    url: /sessions/

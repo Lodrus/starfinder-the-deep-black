@@ -27,6 +27,6 @@ None?
 
 ## Major Events
 
-Vira was sharded to operate the [[location.fob]]. The two shards sync periodically.
+Vira was sharded to operate the [FOB](../locations/fob.md). The two shards sync periodically.
 
-The unknown baddies tried to steal Vira when the [[location.fob]] was attacked. We stopped this and have held onto the Vira shard since.
+The unknown baddies tried to steal Vira when the [FOB](../locations/fob.md) was attacked. We stopped this and have held onto the Vira shard since.

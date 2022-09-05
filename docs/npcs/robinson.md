@@ -19,4 +19,4 @@ Unclear
 
 During the initial landing, ost of the lost equipment was allocated to Robinson and his teams.
 
-He was murdered by [[npc.ri-es]]!
+He was supposedly murdered by [Administrator Ri-Es](../npcs/ri-es.md)!

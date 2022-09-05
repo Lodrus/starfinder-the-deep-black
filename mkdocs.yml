@@ -1,0 +1,20 @@
+site_name: Starfinder - The Deep Black
+site_url: https://lodrus.github.io/starfinder-the-deep-black/
+repo_url: https://github.com/Lodrus/starfinder-the-deep-black
+edit_uri: edit/main
+
+docs_dir: docs
+site_dir: ../site
+
+theme:
+  name: material
+  palette:
+    primary: blue grey
+    scheme: slate
+
+extra:
+  social:
+    - icon: "fontawesome/brands/pied-piper-alt"
+      link: "https://app.roll20.net/editor/setcampaign/13111736"
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/Lodrus/starfinder-the-deep-black"

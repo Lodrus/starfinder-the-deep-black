@@ -8,7 +8,7 @@ sidebar:
 
 ## Connection
 
-We had no direct interaction with Yellen until we [[confronted the administrators|session.2022.08.09]]. Since then, Yellen appears to be a legitimate ally with common interests.
+We had no direct interaction with Yellen until we [confronted the administrators](../sessions/2022-08-09.md). Since then, Yellen appears to be a legitimate ally with common interests.
 
 ## Motivations and Fears
 
@@ -18,4 +18,4 @@ We had no direct interaction with Yellen until we [[confronted the administrator
 
 ## Major Events
 
-Yellen was shot during the [[confrontation|session.2022.08.09]], but we managed to save her life. In turn, she was then able to save [[npc.hank]] 's life just minutes later.
+Yellen was shot during the [confrontation](../sessions/2022-08-09.md), but we managed to save her life. In turn, she was then able to save [Hank's](hank.md) life just minutes later.

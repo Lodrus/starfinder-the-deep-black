@@ -18,4 +18,4 @@ We collect a great deal of bio samples for his department.
 
 ## Major Events
 
-During [[mission.4]], he very discretely sent us an email warning us of the various issues at base, including [[npc.robinson]]'s murder and [[npc.ri-es]]' arrest.
+During [mission 4](../missions/4.md), he very discretely sent us an email warning us of the various issues at base, including [Robinson's](../npcs/robinson.md) murder and [Administrator Ri-Es'](../npcs/ri-es.md) arrest.
