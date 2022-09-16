@@ -1,6 +1,6 @@
 {
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "yzhang.markdown-all-in-one",
   "pasteImage.path": "${currentFileDir}/assets/images",
   "pasteImage.prefix": "/",
   "yaml.schemas": {
